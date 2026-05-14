@@ -1,17 +1,20 @@
-# business_listing_app
+# Листач на бизниси
 
-A new Flutter project.
+Flutter проект за листање на бизниси со нотификации кој се добиваат при близина
+до 50 метри од бизнисот.
 
-## Getting Started
+## Автор
 
-This project is a starting point for a Flutter application.
+Марина Диванисова 102752
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Користени библиотеки
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- https://pub.dev/packages/sqflite
+    flutter пакет за sqlite база на податоци
+- https://pub.dev/packages/path
+    flutter пакет за патека на уред
+- https://pub.dev/packages/flutter_local_notifications
+    flutter пакет за нотификации
+- https://pub.dev/packages/geolocator
+    flutter пакет за локација
